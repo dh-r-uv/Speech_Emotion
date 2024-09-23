@@ -1,0 +1,21 @@
+Data collection(Goes on in the background. Should be done by 25/06)
+
+Text Generation(1 week - 17/06)
+-Story Generation (Allow users to specify ending)(could research on more important parameters for a story) 
+-Analogy generation for specific tech topic.
+-CLI for story generation/Frontend based use Interface
+-Text generation for a presentation
+-Deciding which llm to use
+-Evaluation of output using another llm/classifier model.
+
+Generation of Video/Audio(2 weeks - 1/07)
+-Speech generation(Indian dialect)(Use pre-exisiting ibm model if possible)
+-Video generation
+
+Training Speech Emotion Model(2 weeks - 15/07)
+-Data pre-processing and augmentation
+-Initial Model development
+-Model Evaluation and selection
+
+Feedback mechanism(optional)
+-Optional implementation of RL

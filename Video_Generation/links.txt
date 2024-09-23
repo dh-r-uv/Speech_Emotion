@@ -1,0 +1,2 @@
+https://arxiv.org/pdf/2402.17485
+https://github.com/harlanhong/awesome-talking-head-generation
